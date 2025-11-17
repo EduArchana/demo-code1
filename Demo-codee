@@ -1,4 +1,0 @@
-a=5001
-b=5008
-sum=a+b
-print ("Print the sum"=sum)
