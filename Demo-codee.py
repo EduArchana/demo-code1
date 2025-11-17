@@ -1,4 +1,4 @@
-a=50
-b=70
+a=500
+b=700
 sum=a+b
 print ("Print the sum"=sum)
